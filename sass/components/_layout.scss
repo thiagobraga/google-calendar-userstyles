@@ -1,13 +1,24 @@
 // Layout
 // =====================================================
+// TODO: organize classes in separate files
 
-// ...or in other words, sidebar
+// Sidebar colors
 .HDIIVe {
   background-color: #363636;
   color: #e9e9e8;
 }
 
-.NI2kfb,
+// Better month name on sidebar
+.MSZkRb .r4nke {
+  font-size: 16px;
+}
+
+// Hide current month on header
+.rSoRzd {
+  display: none;
+}
+
+.NI2kfb > content,
 .MSZkRb {
   color: #fdfefd;
 }
@@ -59,4 +70,33 @@
 // Input text border color
 .OabDMe {
   background-color: #3d5b8c;
+}
+
+// Maybe these classes means the current day
+.TUH0Sd .r4nke,
+.TUH0Sd:focus .r4nke,
+.TUH0Sd:hover .r4nke,
+.TUH0Sd.i8dSE.uGtG7d .r4nke {
+  background-color: #3d5b8c;
+}
+
+// Background of agendas checkboxes
+.uHMk6b {
+  border: 8px solid #363636;
+  left: -8px;
+  top: -8px;
+}
+
+.uVccjd {
+  border-radius: 1px;
+}
+
+// Check positioning
+.N2RpBe .TCA6qd {
+  top: 6px;
+}
+
+// Distance from checkbox and agenda name
+.OLw7vb {
+  width: 36px;
 }
