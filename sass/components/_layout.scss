@@ -41,6 +41,12 @@
   color: #e6e9e4;
 }
 
+// Remove margin from not invited events
+.g3dbUc.PT41Tc:not(.JRw8kf) {
+  margin-left: 0;
+  padding-left: 4px;
+}
+
 // Plus icon to add new event
 .rF3YF {
   color: #e0e0e0;
