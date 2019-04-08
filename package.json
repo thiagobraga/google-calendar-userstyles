@@ -24,7 +24,7 @@
     "build:release:scss": "sass -s compressed --no-source-map src/sass:dist/release",
     "build:release:postcss": "postcss dist/release/theme.css --use autoprefixer cssnano --replace --no-map",
     "build:release:css2userstyle": "css2userstyle --no-userscript dist/release/theme.css",
-    "watch": "chokidar --verbose src/sass/theme.scss src/sass/**/*.scss -c 'npm run build'",
+    "watch": "chokidar --verbose src/sass -c 'npm run build'",
     "release": "cross-var npm run build --$npm_package_name:build=release"
   },
   "dependencies": {
