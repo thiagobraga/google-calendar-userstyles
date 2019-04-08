@@ -1,12 +1,46 @@
 // Navbar
 header.gb_ja {
-  background-color: #404552 !important;
+  background-color: $blue !important;
 }
 
 // Navbar icons
+.gb_ja.gb_Od svg,
+.gb_ja.gb_rc svg,
+.gb_ja.gb_rc .gb_qc .gb_Pd {
+  color: $white;
+}
+
 div.rF3YF {
   svg,
   span {
-    color: #fff;
+    color: $white;
   }
+}
+
+// Google Calendar logo
+.gb_ae img.gb_ma {
+  filter: saturate(25%);
+}
+
+// "Agenda" text
+.gb_Rd.gb_Pd {
+  color: #d8dee9;
+}
+
+// Today button
+.GXlaye.qRI4pc {
+  border-color: $white;
+
+  &:hover {
+    background-color: $white;
+
+    .snByac {
+      color: $blue;
+    }
+  }
+}
+
+// Today button text
+.GXlaye .snByac {
+  color: $white;
 }
