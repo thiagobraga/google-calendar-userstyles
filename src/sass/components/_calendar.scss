@@ -1,0 +1,38 @@
+// Calendar background
+.tNDBE {
+  background-color: $blue;
+
+  &:not(.Wyo4Qe) {
+    border-left-color: $bright-black;
+  }
+}
+
+body[data-viewfamily=EVENT],
+body[data-viewfamily=SCHEDULE],
+body[data-viewfamily=SEARCH] {
+  .SGWAac {
+    border-top-color: $bright-black;
+  }
+}
+
+.QIadxc {
+  border-bottom-color: $bright-black;
+}
+
+.PhLhOd,
+.t8qpF {
+  border-right-color: $bright-black;
+}
+
+.g3dbUc.smECzc {
+  color: $white;
+}
+
+.g3dbUc.UflSff {
+  color: fade-out($white, 0.8);
+}
+
+// Current day
+.t8qpF.elYzab-cXXICe-Hjleke.YK7obe.ef2wWc {
+  background-color: rgba(255, 255, 255, 0.05);
+}
