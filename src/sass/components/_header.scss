@@ -8,6 +8,7 @@ header.gb_ja {
 .gb_ja.gb_rc svg,
 .gb_ja.gb_rc .gb_qc .gb_Pd {
   color: $white;
+  fill: $white;
 }
 
 div.rF3YF {
@@ -24,23 +25,55 @@ div.rF3YF {
 
 // "Agenda" text
 .gb_Rd.gb_Pd {
-  color: #d8dee9;
+  color: $light-white;
 }
 
-// Today button
+.NkK3Fc span[role=heading] {
+  color: $light-white;
+}
+
+.gb_ja {
+  color: $light-white;
+}
+
+.gb_ne:not(.gb_oe) input::-webkit-input-placeholder {
+  color: fade-out($light-white, 0.6);
+}
+
+.gb_ne.gb_oe {
+  background: fade-out($black, 0.85);
+}
+
+// Today button and display mode button
+.Cd9hpd,
 .GXlaye.qRI4pc {
   border-color: $white;
 
   &:hover {
     background-color: $white;
 
+    // Display mode caret and buttons text color on hover
+    .xmVoP,
     .snByac {
       color: $blue;
     }
   }
 }
 
-// Today button text
-.GXlaye .snByac {
+// Today button and display mode button text
+.Cd9hpd,
+.GXlaye {
+  .snByac {
+    color: $white;
+  }
+}
+
+// Display mode caret
+.xmVoP {
+  color: $white;
+}
+
+// Current month text
+.rSoRzd {
   color: $white;
 }
