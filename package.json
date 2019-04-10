@@ -2,7 +2,7 @@
   "name": "google-calendar-dark",
   "description": "🗓 A dark theme for Google Calendar 2019",
   "author": "Thiago Braga <contato@thiagobraga.org>",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "license": "MIT",
   "userstyle": {
