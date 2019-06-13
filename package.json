@@ -2,7 +2,7 @@
   "name": "google-calendar-dark",
   "description": "🗓 A dark theme for Google Calendar 2019",
   "author": "Thiago Braga <contato@thiagobraga.org>",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": true,
   "license": "MIT",
   "userstyle": {
@@ -10,32 +10,18 @@
     "namespace": "https://github.com/thiagobraga",
     "homepageURL": "https://github.com/thiagobraga/google-calendar-userstyles",
     "supportURL": "https://github.com/thiagobraga/google-calendar-userstyles/issues",
-    "updateBaseURL": "https://github.com/thiagobraga/google-calendar-userstyles/raw/master/release/",
+    "updateBaseURL": "https://github.com/thiagobraga/google-calendar-userstyles/raw/master/",
     "match": {
       "domain": "calendar.google.com"
     }
   },
-  "config": {
-    "build": "debug"
-  },
-  "scripts": {
-    "build": "cross-var npm-run-all build:$npm_package_config_build:*",
-    "build:debug:scss": "sass --no-source-map src/sass:dist/debug && css2userstyle --no-userscript dist/debug/theme.css",
-    "build:release:scss": "sass -s compressed --no-source-map src/sass:dist/release",
-    "build:release:postcss": "postcss dist/release/theme.css --use autoprefixer cssnano --replace --no-map",
-    "build:release:css2userstyle": "css2userstyle --no-userscript dist/release/theme.css",
-    "watch": "chokidar --verbose src/sass -c 'npm run build'",
-    "release": "cross-var npm run build --$npm_package_name:build=release"
-  },
-  "dependencies": {
-    "autoprefixer": "^9.5.0",
+  "devDependencies": {
+    "autoprefixer": "^9.5.1",
     "chokidar-cli": "^1.2.2",
-    "cross-var": "^1.1.0",
     "cssnano": "^4.1.10",
-    "mkdirp": "^0.5.1",
-    "node-sass-chokidar": "^1.3.4",
-    "npm-run-all": "^4.1.5",
+    "font-awesome": "^4.7.0",
     "postcss-cli": "^6.1.2",
+    "stylus": "^0.54.5",
     "userstyle-gen": "^0.1.2"
   }
 }
