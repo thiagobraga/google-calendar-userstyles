@@ -11,6 +11,10 @@
 
 ## Installation
 
+``` sh
+make
+```
+
 ## Colors
 
 According to the theme, these colors can be used for calendars:
