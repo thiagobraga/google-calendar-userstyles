@@ -1,12 +1,12 @@
 {
-  "name": "google-calendar-dark",
-  "description": "🗓 A dark theme for Google Calendar 2019",
+  "name": "google-calendar-userstyles",
+  "description": "🗓 One Dark theme for Google Calendar 2019",
   "author": "Thiago Braga <contato@thiagobraga.org>",
   "version": "0.0.4",
   "private": true,
   "license": "MIT",
   "userstyle": {
-    "name": "Google Calendar Dark",
+    "name": "Google Calendar One Dark",
     "namespace": "https://github.com/thiagobraga",
     "homepageURL": "https://github.com/thiagobraga/google-calendar-userstyles",
     "supportURL": "https://github.com/thiagobraga/google-calendar-userstyles/issues",
