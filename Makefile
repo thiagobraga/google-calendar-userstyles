@@ -10,15 +10,15 @@ install:
 	[ -f package-lock.json ] && [ -d node_modules ] && echo 'Already installed' && exit
 
 build:
-	stylus src/stylus -o theme.css
-	css2userstyle --no-userscript theme.css
-	rm theme.css
+	stylus src/stylus -o theme.dev.css
+	css2userstyle --no-userscript theme.dev.css
+	rm theme.dev.css
 
 release:
-	stylus -c src/stylus -o google-calendar.css
-	postcss google-calendar.css --use autoprefixer cssnano --replace --no-map
-	css2userstyle --no-userscript google-calendar.css
-	rm google-calendar.css
+	stylus -c src/stylus -o theme.css
+	postcss theme.css --use autoprefixer cssnano --replace --no-map
+	css2userstyle --no-userscript theme.css
+	rm theme.css
 
 watch:
 	chokidar src/stylus -c 'make -s build'
