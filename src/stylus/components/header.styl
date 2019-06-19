@@ -2,16 +2,14 @@
 header.gb_ja
   background-color $blue !important
 
-// Google Calendar logo
-.gb_la.gb_Ld
-  filter saturate(25%)
+a[aria-label="Agenda"]
+  // Google Calendar logo
+  > img
+    filter saturate(25%)
 
-// "Agenda" text
-.gb_ja svg
-.gb_cc svg
-.gb_Dc .gb_Kd
-.gb_oc .gb_Kd
-  color $white
+  // "Agenda" text
+  > span
+    color $white
 
 .rF3YF
   svg
