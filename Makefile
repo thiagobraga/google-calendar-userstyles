@@ -10,9 +10,9 @@ install:
 	[ -f package-lock.json ] && [ -d node_modules ] && echo 'Already installed' && exit
 
 build:
-	stylus src/stylus -o theme.dev.css
-	css2userstyle --no-userscript theme.dev.css
-	rm theme.dev.css
+	stylus src/stylus -o theme.css
+	css2userstyle --no-userscript theme.css
+	rm theme.css
 
 release:
 	stylus -c src/stylus -o theme.css
