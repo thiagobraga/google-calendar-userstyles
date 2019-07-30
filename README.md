@@ -2,7 +2,7 @@
 
 <p align="center">
   🗓 A dark theme for Google Calendar 2019<br>
-  <img src="https://img.shields.io/badge/version-0.0.8-green.svg" align="center" alt="Versão 0.0.8">
+  <img src="https://img.shields.io/badge/version-0.0.9-green.svg" align="center" alt="Versão 0.0.9">
 </p>
 
 <p align="center">
