@@ -2,16 +2,29 @@
 
 <p align="center">
   🗓 A dark theme for Google Calendar 2019<br>
-  <img src="https://img.shields.io/badge/version-0.0.9-green.svg" align="center" alt="Versão 0.0.9">
+  <img src="https://img.shields.io/badge/version-0.0.10-green.svg" align="center" alt="Version 0.0.10">
 </p>
 
 <p align="center">
   <img src="https://i.imgur.com/5n9DG6z.png" width="500" />
 </p>
 
-## Installation
+## Install
+
+- Install [Stylus](https://add0n.com/stylus.html)
+- Then click on the button below:
+
+[![Install directly with Stylus][badge]][style]
+
+[badge]: https://img.shields.io/badge/Install%20directly%20with-Stylus-116b59.svg?longCache=true
+[style]: https://raw.githubusercontent.com/thiagobraga/google-calendar-userstyles/master/theme.user.css
+
+
+## Development
 
 ``` sh
+git clone https://github.com/thiagobraga/google-calendar-userstyles
+cd google-calendar-userstyles
 make
 ```
 
