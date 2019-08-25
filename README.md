@@ -1,8 +1,13 @@
-<h1 align="center">Google Calendar Dark</h1>
+<h1 align="center">
+  <img src="https://www.logospng.com/images/101/outlook-calendar-on-iphone-newcalendar-101580.png" height="128" /><br>
+  <br>
+  Google Calendar One Dark
+</h1>
 
 <p align="center">
-  🗓 A dark theme for Google Calendar 2019<br>
-  <img src="https://img.shields.io/badge/version-0.0.8-green.svg" align="center" alt="Versão 0.0.8">
+  🗓 One Dark theme for Google Calendar 2019<br>
+  <a href="https://raw.githubusercontent.com/thiagobraga/todoist-userstyles/master/theme.user.css"><img src="https://img.shields.io/badge/Install%20directly%20with-Stylus-lightgrey.svg?longCache=true&logo=google&logoColor=f1f1f1" align="center" alt="Install directly with Stylus extension" /></a>
+  <a href="https://raw.githubusercontent.com/thiagobraga/todoist-userstyles/master/theme.user.css"><img src="https://img.shields.io/badge/version-0.0.8-red.svg" align="center" alt="Version 0.0.8"></a>
 </p>
 
 <p align="center">
@@ -11,7 +16,18 @@
 
 ## Installation
 
+1. Install [Stylus][stylus-addon]
+2. Then <a href="https://raw.githubusercontent.com/thiagobraga/todoist-userstyles/master/theme.user.css"><img src="https://img.shields.io/badge/Install%20directly%20with-Stylus-lightgrey.svg?longCache=true&logo=todoist&logoColor=f1f1f1" align="center" alt="Install directly with Stylus extension" /></a>
+
+[stylus-addon]: https://add0n.com/stylus.html
+[badge]: https://img.shields.io/badge/Install%20directly%20with-Stylus-116b59.svg?longCache=true
+[style]: https://raw.githubusercontent.com/thiagobraga/google-calendar-userstyles/master/theme.user.css
+
+## Development
+
 ``` sh
+git clone https://github.com/thiagobraga/google-calendar-userstyles
+cd google-calendar-userstyles
 make
 ```
 
@@ -28,3 +44,7 @@ According to the theme, these colors can be used for calendars:
 <span style="border: 1px solid #ddd; font-size: 13px; border-radius: 4px; padding: 2px 6px; background-color: #b2ca9d; color: #fff; text-align: center; width: 52px; display: inline-block">#b2ca9d</span><br>
 <span style="border: 1px solid #ddd; font-size: 13px; border-radius: 4px; padding: 2px 6px; background-color: #fffced; color: #596581; text-align: center; width: 52px; display: inline-block">#fffced</span><br>
 <span style="border: 1px solid #ddd; font-size: 13px; border-radius: 4px; padding: 2px 6px; background-color: #eaeaea; color: #596581; text-align: center; width: 52px; display: inline-block">#eaeaea</span><br>
+
+## More screenshots
+
+Soon...
