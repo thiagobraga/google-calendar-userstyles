@@ -33,6 +33,8 @@ make
 
 ## Colors
 
+These colors can be used in sidebar calendars.
+
 <p>
   <img src="https://img.shields.io/static/v1?message=%235d616d&label=&labelColor=5d616d&logoColor=f1f1f1&logo=google&color=transparent&style=for-the-badge" /><br>
   <img src="https://img.shields.io/static/v1?message=%23596581&label=&labelColor=596581&logoColor=f1f1f1&logo=google&color=transparent&style=for-the-badge" /><br>
