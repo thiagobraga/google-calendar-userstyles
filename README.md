@@ -17,7 +17,7 @@
 ## Installation
 
 1. Install [Stylus][stylus-addon]
-2. Then <a href="https://raw.githubusercontent.com/thiagobraga/todoist-userstyles/master/theme.user.css"><img src="https://img.shields.io/badge/Install%20directly%20with-Stylus-lightgrey.svg?longCache=true&logo=todoist&logoColor=f1f1f1" align="center" alt="Install directly with Stylus extension" /></a>
+2. Then <a href="https://raw.githubusercontent.com/thiagobraga/todoist-userstyles/master/theme.user.css"><img src="https://img.shields.io/badge/Install%20directly%20with-Stylus-lightgrey.svg?longCache=true&logo=google&logoColor=f1f1f1" align="center" alt="Install directly with Stylus extension" /></a>
 
 [stylus-addon]: https://add0n.com/stylus.html
 [badge]: https://img.shields.io/badge/Install%20directly%20with-Stylus-116b59.svg?longCache=true
@@ -33,7 +33,11 @@ make
 
 ## Colors
 
-According to the theme, these colors can be used for calendars:
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=&message=%235d616d&color=5d616d&style=flat-square" />
+  <img src="https://img.shields.io/static/v1?label=&message=%23596581&color=596581&style=flat-square" />
+  <img src="https://img.shields.io/static/v1?label=&message=%23b39ddb&color=b39ddb&style=flat-square" />
+</p>
 
 <span style="border: 1px solid #ddd; font-size: 13px; border-radius: 4px; padding: 2px 6px; background-color: #5d616d; color: #fff; text-align: center; width: 52px; display: inline-block">#5d616d</span><br>
 <span style="border: 1px solid #ddd; font-size: 13px; border-radius: 4px; padding: 2px 6px; background-color: #596581; color: #fff; text-align: center; width: 52px; display: inline-block">#596581</span><br>
