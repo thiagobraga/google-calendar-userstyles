@@ -33,15 +33,17 @@ make
 
 ## Colors
 
-<img src="https://img.shields.io/static/v1?label=&message=%235d616d&color=5d616d&style=flat-square" />
-<img src="https://img.shields.io/static/v1?label=&message=%23596581&color=596581&style=flat-square" />
-<img src="https://img.shields.io/static/v1?label=&message=%23b39ddb&color=b39ddb&style=flat-square" />
-<img src="https://img.shields.io/static/v1?label=&message=%23b43a35&color=b43a35&style=flat-square" />
-<img src="https://img.shields.io/static/v1?label=&message=%23e67c73&color=e67c73&style=flat-square" />
-<img src="https://img.shields.io/static/v1?label=&message=%23e5a772&color=e5a772&style=flat-square" />
-<img src="https://img.shields.io/static/v1?label=&message=%23b2ca9d&color=b2ca9d&style=flat-square" />
-<img src="https://img.shields.io/static/v1?label=&message=%23fffced&color=fffced&style=flat-square" />
-<img src="https://img.shields.io/static/v1?label=&message=%23eaeaea&color=eaeaea&style=flat-square" />
+<p>
+  <img src="https://img.shields.io/static/v1?label=&message=%235d616d&color=5d616d&style=flat-square" />
+  <img src="https://img.shields.io/static/v1?label=&message=%23596581&color=596581&style=flat-square" />
+  <img src="https://img.shields.io/static/v1?label=&message=%23b39ddb&color=b39ddb&style=flat-square" />
+  <img src="https://img.shields.io/static/v1?label=&message=%23b43a35&color=b43a35&style=flat-square" />
+  <img src="https://img.shields.io/static/v1?label=&message=%23e67c73&color=e67c73&style=flat-square" />
+  <img src="https://img.shields.io/static/v1?label=&message=%23e5a772&color=e5a772&style=flat-square" />
+  <img src="https://img.shields.io/static/v1?label=&message=%23b2ca9d&color=b2ca9d&style=flat-square" />
+  <img src="https://img.shields.io/static/v1?label=&message=%23fffced&color=fffced&style=flat-square" />
+  <img src="https://img.shields.io/static/v1?label=&message=%23eaeaea&color=eaeaea&style=flat-square" />
+</p>
 
 ## More screenshots
 
