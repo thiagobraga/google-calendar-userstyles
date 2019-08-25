@@ -7,7 +7,7 @@
 <p align="center">
   🗓 One Dark theme for Google Calendar 2019<br>
   <a href="https://raw.githubusercontent.com/thiagobraga/todoist-userstyles/master/theme.user.css"><img src="https://img.shields.io/badge/Install%20directly%20with-Stylus-lightgrey.svg?longCache=true&logo=google&logoColor=f1f1f1" align="center" alt="Install directly with Stylus extension" /></a>
-  <a href="https://raw.githubusercontent.com/thiagobraga/todoist-userstyles/master/theme.user.css"><img src="https://img.shields.io/badge/version-0.0.10-red.svg" align="center" alt="Version 0.0.10"></a>
+  <a href="https://raw.githubusercontent.com/thiagobraga/todoist-userstyles/master/theme.user.css"><img src="https://img.shields.io/badge/version-0.0.10-596581.svg" align="center" alt="Version 0.0.10"></a>
 </p>
 
 <p align="center">
@@ -34,17 +34,17 @@ make
 ## Colors
 
 <p>
-  <img src="https://img.shields.io/static/v1?label=&message=%235d616d&color=5d616d&style=flat-square" />
-  <img src="https://img.shields.io/static/v1?label=&message=%23596581&color=596581&style=flat-square" />
-  <img src="https://img.shields.io/static/v1?label=&message=%23b39ddb&color=b39ddb&style=flat-square" />
-  <img src="https://img.shields.io/static/v1?label=&message=%23b43a35&color=b43a35&style=flat-square" />
-  <img src="https://img.shields.io/static/v1?label=&message=%23e67c73&color=e67c73&style=flat-square" />
-  <img src="https://img.shields.io/static/v1?label=&message=%23e5a772&color=e5a772&style=flat-square" />
-  <img src="https://img.shields.io/static/v1?label=&message=%23b2ca9d&color=b2ca9d&style=flat-square" />
-  <img src="https://img.shields.io/static/v1?label=&message=%23fffced&color=fffced&style=flat-square" />
-  <img src="https://img.shields.io/static/v1?label=&message=%23eaeaea&color=eaeaea&style=flat-square" />
+  <img src="https://img.shields.io/static/v1?message=%235d616d&label=&labelColor=5d616d&logoColor=f1f1f1&logo=google&color=transparent&style=for-the-badge" /><br>
+  <img src="https://img.shields.io/static/v1?message=%23596581&label=&labelColor=596581&logoColor=f1f1f1&logo=google&color=transparent&style=for-the-badge" /><br>
+  <img src="https://img.shields.io/static/v1?message=%23b39ddb&label=&labelColor=b39ddb&logoColor=f1f1f1&logo=google&color=transparent&style=for-the-badge" /><br>
+  <img src="https://img.shields.io/static/v1?message=%23b43a35&label=&labelColor=b43a35&logoColor=f1f1f1&logo=google&color=transparent&style=for-the-badge" /><br>
+  <img src="https://img.shields.io/static/v1?message=%23e67c73&label=&labelColor=e67c73&logoColor=f1f1f1&logo=google&color=transparent&style=for-the-badge" /><br>
+  <img src="https://img.shields.io/static/v1?message=%23e5a772&label=&labelColor=e5a772&logoColor=f1f1f1&logo=google&color=transparent&style=for-the-badge" /><br>
+  <img src="https://img.shields.io/static/v1?message=%23b2ca9d&label=&labelColor=b2ca9d&logoColor=f1f1f1&logo=google&color=transparent&style=for-the-badge" /><br>
+  <img src="https://img.shields.io/static/v1?message=%23fffced&label=&labelColor=fffced&logoColor=666666&logo=google&color=transparent&style=for-the-badge" /><br>
+  <img src="https://img.shields.io/static/v1?message=%23eaeaea&label=&labelColor=eaeaea&logoColor=666666&logo=google&color=transparent&style=for-the-badge" /><br>
 </p>
 
 ## More screenshots
 
-Soon...
+> Soon...
