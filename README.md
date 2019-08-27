@@ -17,7 +17,7 @@
 ## Installation
 
 1. Install [Stylus](https://add0n.com/stylus.html)
-2. Then <a href="https://raw.githubusercontent.com/thiagobraga/gmail-userstyles/master/theme.user.css"><img src="https://img.shields.io/badge/install%20directly%20with-Stylus-596581.svg?longCache=true&logoColor=f1f1f1" align="center" alt="Install directly with Stylus extension" /></a>
+2. Then <a href="https://raw.githubusercontent.com/thiagobraga/gmail-userstyles/master/theme.user.css"><img src="https://img.shields.io/badge/install%20directly%20with-Stylus-lightgray.svg?longCache=true&logoColor=f1f1f1" align="center" alt="Install directly with Stylus extension" /></a>
 
 ## Development
 
