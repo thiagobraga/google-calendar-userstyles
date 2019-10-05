@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://www.logospng.com/images/101/outlook-calendar-on-iphone-newcalendar-101580.png" height="128" /><br>
+  <img src="https://i.imgur.com/VjyI3H5.png" height="128" /><br>
   <br>
   Google Calendar One Dark
 </h1>
