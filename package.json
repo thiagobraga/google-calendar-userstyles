@@ -2,7 +2,7 @@
   "name": "google-calendar-userstyles",
   "description": "🗓 One Dark theme for Google Calendar 2019",
   "author": "Thiago Braga <contato@thiagobraga.org>",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "private": true,
   "license": "MIT",
   "userstyle": {
@@ -16,12 +16,12 @@
     }
   },
   "devDependencies": {
-    "autoprefixer": "9.6.1",
-    "chokidar-cli": "2.0.0",
+    "autoprefixer": "9.7.3",
+    "chokidar-cli": "2.1.0",
     "cssnano": "4.1.10",
     "font-awesome": "4.7.0",
     "postcss-cli": "6.1.3",
-    "stylus": "0.54.5",
+    "stylus": "0.54.7",
     "userstyle-gen": "0.1.2"
   }
 }
