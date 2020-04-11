@@ -17,7 +17,7 @@ build:
 	rm -f theme.css
 
 release:
-	stylus -c src/styles -o theme.css && \
+	stylus src/styles -o theme.css && \
 		postcss theme.css --use autoprefixer --replace --no-map && \
 		css2userstyle --no-userscript theme.css && \
 		rm -f theme.css
