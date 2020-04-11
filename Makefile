@@ -5,20 +5,22 @@ PATH := ${PWD}/node_modules/.bin:$(PATH)
 all: install build watch
 
 install:
-	[ ! -f package-lock.json ] && npm i && exit
-	[ -f package-lock.json ] && [ ! -d node_modules ] && npm ci && exit
-	[ -f package-lock.json ] && [ -d node_modules ] && echo 'Already installed' && exit
+	[ ! -f yarn.lock ] || [ -d node_modules ] && yarn && exit
+	[ -f yarn.lock ] && [ -d node_modules ] && echo 'Already installed' && exit
+
+clean:
+	rm -rf node_modules yarn.lock
 
 build:
-	stylus src/stylus -o theme.css
+	stylus src/styles -o theme.css
 	css2userstyle --no-userscript theme.css
-	rm theme.css
+	rm -f theme.css
 
 release:
-	stylus -c src/stylus -o theme.css
-	postcss theme.css --use autoprefixer cssnano --replace --no-map
-	css2userstyle --no-userscript theme.css
-	rm theme.css
+	stylus -c src/styles -o theme.css && \
+		postcss theme.css --use autoprefixer --replace --no-map && \
+		css2userstyle --no-userscript theme.css && \
+		rm -f theme.css
 
 watch:
-	chokidar src/stylus -c 'make -s build'
+	chokidar src/styles -c 'make -s build'
