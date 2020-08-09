@@ -380,11 +380,9 @@
     width: 8px;
     height: 8px;
   }
-  .qmFsL::-webkit-scrollbar {
-    width: 16px;
-    height: 16px;
-  }
-  .hnGhZ::-webkit-scrollbar {
+  .qmFsL::-webkit-scrollbar,
+  .hnGhZ::-webkit-scrollbar,
+  .wcJUvc::-webkit-scrollbar {
     width: 16px;
     height: 16px;
     background-color: #31343f;
@@ -397,7 +395,8 @@
     box-shadow: none;
   }
   .qmFsL::-webkit-scrollbar-thumb,
-  .hnGhZ::-webkit-scrollbar-thumb {
+  .hnGhZ::-webkit-scrollbar-thumb,
+  .wcJUvc::-webkit-scrollbar-thumb {
     width: 8px;
     border: 4px solid #31343f;
   }
