@@ -7,7 +7,7 @@
 <p align="center">
   🗓 One Dark theme for Google Calendar<br>
   <a href="https://raw.githubusercontent.com/thiagobraga/google-calendar-userstyles/master/theme.user.css"><img src="https://img.shields.io/badge/Install%20directly%20with-Stylus-lightgrey.svg?longCache=true&logo=google&logoColor=f1f1f1" align="center" alt="Install directly with Stylus extension" /></a>
-  <a href="https://raw.githubusercontent.com/thiagobraga/google-calendar-userstyles/master/theme.user.css"><img src="https://img.shields.io/badge/version-0.2.0-596581.svg" align="center" alt="Version 0.2.0"></a>
+  <a href="https://raw.githubusercontent.com/thiagobraga/google-calendar-userstyles/master/theme.user.css"><img src="https://img.shields.io/badge/version-0.2.1-596581.svg" align="center" alt="Version 0.2.1"></a>
   <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=thibraga06%40gmail.com&item_name=Contribuir+para+o+desenvolvimento+de+projetos+open+source&currency_code=BRL&source=url" target="_blank" rel="nofollow noopener"><img src="https://img.shields.io/badge/donate-PayPal-0a4ea1.svg" align="center"></a>
 </p>
 
