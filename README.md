@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.imgur.com/VjyI3H5.png" height="128" /><br>
+  <img src="https://i.imgur.com/8N7d4SJ.png" height="128" /><br>
   <br>
   Google Calendar One Dark
 </h1>
@@ -30,7 +30,7 @@ make
 
 ## Colors
 
-These colors can be used in sidebar calendars.
+Suggestion of colors to be used with this dark theme:
 
 <p>
   <img src="https://img.shields.io/static/v1?message=%235d616d&label=&labelColor=5d616d&logoColor=f1f1f1&logo=google&color=transparent&style=for-the-badge" /><br>
@@ -57,7 +57,3 @@ These colors can be used in sidebar calendars.
 #fffced
 #eaeaea
 ```
-
-## More screenshots
-
-> Soon...
