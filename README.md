@@ -33,15 +33,15 @@ make
 Suggestion of colors to be used with this dark theme:
 
 <p>
-  <img src="https://img.shields.io/static/v1?message=%235d616d&label=&labelColor=5d616d&logoColor=f1f1f1&logo=google&color=transparent&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/static/v1?message=%23596581&label=&labelColor=596581&logoColor=f1f1f1&logo=google&color=transparent&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/static/v1?message=%23b39ddb&label=&labelColor=b39ddb&logoColor=f1f1f1&logo=google&color=transparent&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/static/v1?message=%23b43a35&label=&labelColor=b43a35&logoColor=f1f1f1&logo=google&color=transparent&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/static/v1?message=%23e67c73&label=&labelColor=e67c73&logoColor=f1f1f1&logo=google&color=transparent&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/static/v1?message=%23e5a772&label=&labelColor=e5a772&logoColor=f1f1f1&logo=google&color=transparent&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/static/v1?message=%23b2ca9d&label=&labelColor=b2ca9d&logoColor=f1f1f1&logo=google&color=transparent&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/static/v1?message=%23fffced&label=&labelColor=fffced&logoColor=666666&logo=google&color=transparent&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/static/v1?message=%23eaeaea&label=&labelColor=eaeaea&logoColor=666666&logo=google&color=transparent&style=for-the-badge" /><br>
+  <img src="https://img.shields.io/static/v1?message=%235d616d&label=&labelColor=5d616d&logoColor=f1f1f1&logo=google&style=for-the-badge" /><br>
+  <img src="https://img.shields.io/static/v1?message=%23596581&label=&labelColor=596581&logoColor=f1f1f1&logo=google&style=for-the-badge" /><br>
+  <img src="https://img.shields.io/static/v1?message=%23b39ddb&label=&labelColor=b39ddb&logoColor=f1f1f1&logo=google&style=for-the-badge" /><br>
+  <img src="https://img.shields.io/static/v1?message=%23b43a35&label=&labelColor=b43a35&logoColor=f1f1f1&logo=google&style=for-the-badge" /><br>
+  <img src="https://img.shields.io/static/v1?message=%23e67c73&label=&labelColor=e67c73&logoColor=f1f1f1&logo=google&style=for-the-badge" /><br>
+  <img src="https://img.shields.io/static/v1?message=%23e5a772&label=&labelColor=e5a772&logoColor=f1f1f1&logo=google&style=for-the-badge" /><br>
+  <img src="https://img.shields.io/static/v1?message=%23b2ca9d&label=&labelColor=b2ca9d&logoColor=f1f1f1&logo=google&style=for-the-badge" /><br>
+  <img src="https://img.shields.io/static/v1?message=%23fffced&label=&labelColor=fffced&logoColor=666666&logo=google&style=for-the-badge" /><br>
+  <img src="https://img.shields.io/static/v1?message=%23eaeaea&label=&labelColor=eaeaea&logoColor=666666&logo=google&style=for-the-badge" /><br>
 </p>
 
 ### Color codes
