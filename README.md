@@ -32,28 +32,19 @@ make
 
 Suggestion of colors to be used with this dark theme:
 
-<p>
-  <img src="https://img.shields.io/static/v1?message=%235d616d&label=&labelColor=5d616d&logoColor=f1f1f1&logo=google&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/static/v1?message=%23596581&label=&labelColor=596581&logoColor=f1f1f1&logo=google&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/static/v1?message=%23b39ddb&label=&labelColor=b39ddb&logoColor=f1f1f1&logo=google&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/static/v1?message=%23b43a35&label=&labelColor=b43a35&logoColor=f1f1f1&logo=google&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/static/v1?message=%23e67c73&label=&labelColor=e67c73&logoColor=f1f1f1&logo=google&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/static/v1?message=%23e5a772&label=&labelColor=e5a772&logoColor=f1f1f1&logo=google&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/static/v1?message=%23b2ca9d&label=&labelColor=b2ca9d&logoColor=f1f1f1&logo=google&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/static/v1?message=%23fffced&label=&labelColor=fffced&logoColor=666666&logo=google&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/static/v1?message=%23eaeaea&label=&labelColor=eaeaea&logoColor=666666&logo=google&style=for-the-badge" /><br>
-</p>
+|              |              |              |              |              |
+|:------------:|:------------:|:------------:|:------------:|:------------:|
+| ![][#5d616d] | ![][#eaeaea] | ![][#fffced] | ![][#e5a772] | ![][#b2ca9d] |
+|  `#5d616d`   |  `#eaeaea`   |  `#fffced`   |  `#e5a772`   |  `#b2ca9d`   |
+| ![][#596581] | ![][#b39ddb] | ![][#b43a35] | ![][#e67c73] |              |
+|  `#596581`   |  `#b39ddb`   |  `#b43a35`   |  `#e67c73`   |              |
 
-### Color codes
-
-```
-#5d616d
-#596581
-#b39ddb
-#b43a35
-#e67c73
-#e5a772
-#b2ca9d
-#fffced
-#eaeaea
-```
+[#5d616d]: https://img.shields.io/static/v1?message=%235d616d&label=&color=5d616d&style=for-the-badge
+[#eaeaea]: https://img.shields.io/static/v1?message=%23eaeaea&label=&color=eaeaea&style=for-the-badge
+[#fffced]: https://img.shields.io/static/v1?message=%23fffced&label=&color=fffced&style=for-the-badge
+[#596581]: https://img.shields.io/static/v1?message=%23596581&label=&color=596581&style=for-the-badge
+[#b39ddb]: https://img.shields.io/static/v1?message=%23b39ddb&label=&color=b39ddb&style=for-the-badge
+[#b43a35]: https://img.shields.io/static/v1?message=%23b43a35&label=&color=b43a35&style=for-the-badge
+[#e67c73]: https://img.shields.io/static/v1?message=%23e67c73&label=&color=e67c73&style=for-the-badge
+[#e5a772]: https://img.shields.io/static/v1?message=%23e5a772&label=&color=e5a772&style=for-the-badge
+[#b2ca9d]: https://img.shields.io/static/v1?message=%23b2ca9d&label=&color=b2ca9d&style=for-the-badge
