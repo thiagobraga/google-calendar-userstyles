@@ -24,7 +24,7 @@
     "userstyle-gen": "0.1.2"
   },
   "resolutions": {
-    "yargs-parser": ">=13.1.2",
-    "ansi-regex": ">=5.0.1"
+    "ansi-regex": "2.1.1",
+    "yargs-parser": ">=13.1.2"
   }
 }
