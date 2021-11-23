@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name          Google Calendar One Dark
 @description   🗓 One Dark theme for Google Calendar
-@version       0.2.1
+@version       0.3.0
 @author        Thiago Braga <contato@thiagobraga.org>
 @license       MIT
 @namespace     https://github.com/thiagobraga
@@ -307,6 +307,21 @@
   }
   .qmMNRc {
     color: #8c96a8;
+  }
+  .twhhs.s2r4Od .Fxmcue {
+    background-color: #404552;
+  }
+  .ij27gb .Fxmcue .NPEfkd.RveJvd.snByac {
+    color: #596581;
+  }
+  .Y5sE8d .l4V7wb,
+  .YhQJj .l4V7wb,
+  .An19kf .l4V7wb {
+    background-color: #404552;
+  }
+  .wmCMbe {
+    background-color: #22272f;
+    box-shadow: inset 0 1px 0 #5f6368;
   }
   header {
     background-color: #404552 !important;
