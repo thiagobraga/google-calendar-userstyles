@@ -1,8 +1,8 @@
 {
   "name": "google-calendar-userstyles",
   "description": "🗓 One Dark theme for Google Calendar",
-  "author": "Thiago Braga <contato@thiagobraga.org>",
-  "version": "0.3.0",
+  "author": "Thiago Braga <thi@thiagobraga.dev>",
+  "version": "0.3.1",
   "private": true,
   "license": "MIT",
   "userstyle": {
