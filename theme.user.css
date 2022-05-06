@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name          Google Calendar One Dark
 @description   🗓 One Dark theme for Google Calendar
-@version       0.3.1
+@version       0.4.0
 @author        Thiago Braga <thi@thiagobraga.dev>
 @license       MIT
 @namespace     https://github.com/thiagobraga
@@ -381,6 +381,28 @@
   .rSoRzd {
     color: #abb2bf;
   }
+  .W0m3G .r4nke {
+    background-color: #31343f;
+  }
+  .W0m3G::before {
+    background-color: #31343f;
+  }
+  .MSZkRb .r4nke {
+    color: #abb2bf;
+  }
+  .q1j8lf {
+    padding: 16px;
+  }
+  .W0m3G.Io4vne.iMprOe.S3hgjf {
+    color: #fff;
+  }
+  .i8dSE .r4nke {
+    color: #ffaeb4;
+  }
+  .TUH0Sd .r4nke {
+    color: #404552;
+    background-color: #fff;
+  }
   .Kk7lMc-DWWcKd-OomVLb-haAclf {
     background-color: #1e2127;
   }
@@ -432,12 +454,6 @@
   .hEtGGf::after {
     background: none;
   }
-  .W0m3G .r4nke {
-    background-color: #404552;
-  }
-  .W0m3G::before {
-    background-color: #404552;
-  }
   .SaBhMc {
     background-color: rgba(30,33,39,0.25);
   }
@@ -463,9 +479,6 @@
     background-color: rgba(0,0,0,0.15);
   }
   .NI2kfb {
-    color: #abb2bf;
-  }
-  .MSZkRb .r4nke {
     color: #abb2bf;
   }
   .W0m3G.elYzab-cXXICe-Hjleke.elYzab-DaY83b-ppHlrf.iMprOe .r4nke {
