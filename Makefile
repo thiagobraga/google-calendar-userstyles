@@ -7,7 +7,7 @@ clean:
 	/bin/rm -rf node_modules
 
 install:
-	[ ! -d node_modules ] && yarn && exit
+	yarn
 
 build:
 	stylus src/styles -o theme.css
